@@ -10,6 +10,7 @@ namespace HW8
     {
         static void Main(string[] args)
         {
+            Console.ReadKey();
         }
     }
 }
